@@ -58,4 +58,4 @@
 
 29. Render After Effects animations natively on Android and iOS(https://github.com/airbnb/lottie-android)
 
-30.An open source implementation of MultiAccount.(Support 4.0 - N)(https://github.com/asLody/VirtualApp)
+30. An open source implementation of MultiAccount.(Support 4.0 - N)(https://github.com/asLody/VirtualApp)

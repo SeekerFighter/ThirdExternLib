@@ -1,5 +1,7 @@
 # ThirdExternLib
 
+- [注解申请权限](https://github.com/2017398956/AbcPermission)
+
 - [一款优秀的相机封装库](https://github.com/infinum/Android-GoldenEye)
 
 - [Android OpenGL ES 2.0/3.0 Engine Rajawali](https://github.com/Rajawali/Rajawali)
